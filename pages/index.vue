@@ -38,7 +38,7 @@
         class="vue-typed"
         :showCursor="false"
         :loop="true"
-        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'I always wanted to tell you... ^2500', 'I LOVE YOU >///<']"
+        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'I always wanted to tell you... ^2500', 'Whatever Happens, Keep Smiling:)']"
         :backDelay="500"
         :typeSpeed="100"
         :backSpeed="20"
